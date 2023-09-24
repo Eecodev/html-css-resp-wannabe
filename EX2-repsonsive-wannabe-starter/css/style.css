@@ -127,4 +127,11 @@ img {
 /************************************************
     Media Queries
  ************************************************/
-@media screen and (min-width )
+@media screen and (max-width: 768px){
+    img{
+        width: 100%;
+    }
+    .steps .col{
+        width: 
+    }
+}
